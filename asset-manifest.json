@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/QubitEval/static/css/main.54e361b8.css",
+    "main.js": "/QubitEval/static/js/main.97634d2e.js",
+    "static/js/453.4472755a.chunk.js": "/QubitEval/static/js/453.4472755a.chunk.js",
+    "index.html": "/QubitEval/index.html",
+    "main.54e361b8.css.map": "/QubitEval/static/css/main.54e361b8.css.map",
+    "main.97634d2e.js.map": "/QubitEval/static/js/main.97634d2e.js.map",
+    "453.4472755a.chunk.js.map": "/QubitEval/static/js/453.4472755a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54e361b8.css",
+    "static/js/main.97634d2e.js"
+  ]
+}
